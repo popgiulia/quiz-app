@@ -13,7 +13,10 @@ const Home = () => (
                         <li><Link to="/play/instructions">Play</Link></li>
                     </ul>
                 </div>
-
+                <div className="auth-container">
+                    <Link to="/login">Login</Link>
+                    <Link ti="/register">Sign up</Link>
+                </div>
             </section>
         </div>
     </Fragment>
