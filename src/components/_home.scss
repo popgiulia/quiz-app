@@ -1,3 +1,87 @@
 #home {
-    background-image: url('../assets/img/background.jpg');
+    background-image: url('../assets/img/background.jpg.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 2rem;
+
+    section {
+        background-color: rgba(255, 192, 203, 1);
+        padding-left: 2.5rem;
+        padding-right: 2.5rem;
+        border-radius: 10px;
+        height: 80%;
+        width: 40%;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 6rem;
+        color: #333;
+        margin-top: 30%;
+    }
+
+    .startButton {
+        width: 100%;
+        margin-top: 10%;
+    }
+
+    .start {
+        background-color: #f40;
+        color: white;
+        padding: 1rem;
+        display: block;
+        cursor: pointer;
+        border-radius: 30px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .start:hover {
+        background-color: darken(#f40, 15%);
+    }
+
+    .container {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 30px;
+    }
+
+    #loginButton {
+        background-color: blue;
+    }
+
+    #loginButton:hover {
+        background-color: darken(blue, 15%);
+    }
+
+    #signupButton {
+        background-color: greenyellow;
+    }
+
+    #signupButton:hover {
+        background-color: darken(greenyellow, 15%);
+    }
+
+    .buttons {
+        color: #fff;
+        cursor: pointer;
+        border-radius: 30px;
+        padding: 1rem;
+        text-align: center;
+        width: 45%;
+    }
+}
+
+@media (max-width: 770px) {
+    #home section {
+        padding: 0 %1rem;
+        width: 100%;
+        height: 100%;
+    }
 }
