@@ -4,7 +4,7 @@ import M from 'materialize-css';
 import questions from '../../../src/questions.json';
 import isEmpty from "../../functions/is_empty";
 import classnames from 'classnames';
-import { withRouter } from 'react-router-dom';
+
 
 class Play extends Component {
     constructor(props) {
@@ -208,8 +208,7 @@ class Play extends Component {
         };
         console.log(studentStats);
         setTimeout(() => {
-            this.props.history.push('/start/quizSummary');
-            //.location.href = ('/play/quizSummary', studentStats);
+            window.location.href = ('/start/quizSummary', studentStats);
         }, 1000);
     }
 

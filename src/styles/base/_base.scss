@@ -8,3 +8,15 @@
     pointer-events: none;
     opacity: 0.10;
 }
+
+.toast-invalid {
+    background-color: red !important;
+    border-radius: 5px !important;
+    color: black !important;
+}
+
+.toast-valid {
+    background-color: green !important;
+    border-radius: 5px !important;
+    color: black !important;
+}

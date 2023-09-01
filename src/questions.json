@@ -1,122 +1,82 @@
 [
     {
-        "question": "What temperature does water boil at?",
-        "optionA": "50 degrees Celcius",
-        "optionB": "25 degrees Celcius",
-        "optionC": "100 degrees Celcius",
-        "optionD": "150 degrees Celcius",
-        "answer": "100 degrees Celcius"
+        "question": "What does the acronym 'CPU' stand for?",
+        "optionA": "Central Processing Unit",
+        "optionB": "Computer Processing Unit",
+        "optionC": "Controlled Processing Unit",
+        "optionD": "Central Printed Unit",
+        "answer": "Central Processing Unit"
     },
     {
-        "question": "Who wrote Julius Caesar, Macbeth and Hamlet?",
-        "optionA": "Wole Soyinka",
-        "optionB": "William Shakespeare",
-        "optionC": "Ngozi Chimamanda Adichie",
-        "optionD": "Dan Brown",
-        "answer": "William Shakespeare"
+        "question": "Which programming language is known as the 'mother of all languages'?",
+        "optionA": "Python",
+        "optionB": "Java",
+        "optionC": "C++",
+        "optionD": "C",
+        "answer": "C"
     },
     {
-        "question": "What did the crocodile swallow in Peter Pan?",
-        "optionA": "A Book",
-        "optionB": "A Computer",
-        "optionC": "A pair of shoes",
-        "optionD": "Alarm Clock",
-        "answer": "Alarm Clock"
+        "question": "What does HTML stand for in web development?",
+        "optionA": "Hyper Text Markup Language",
+        "optionB": "High Tech Multimedia Language",
+        "optionC": "Hyperlink and Text Markup Language",
+        "optionD": "Hyper Transfer Markup Language",
+        "answer": "Hyper Text Markup Language"
     },
     {
-        "question": "Which is the only mammal that can’t jump?",
-        "optionA": "Dog",
-        "optionB": "Elephant",
-        "optionC": "Goat",
-        "optionD": "Lion",
-        "answer": "Elephant"
+        "question": "Which type of malware is designed to spread from one system to another without human intervention?",
+        "optionA": "Spyware",
+        "optionB": "Adware",
+        "optionC": "Worm",
+        "optionD": "Trojan",
+        "answer": "Worm"
     },
     {
-        "question": "Who lived at 221B, Baker Street, London?",
-        "optionA": "Tony Stark",
-        "optionB": "Morgan Freeman",
-        "optionC": "Sherlock Holmes",
-        "optionD": "Samuel L. Jackson",
-        "answer": "Sherlock Holmes"
+        "question": "What protocol is used to secure data transmission over the internet?",
+        "optionA": "FTP",
+        "optionB": "HTTP",
+        "optionC": "SMTP",
+        "optionD": "HTTPS",
+        "answer": "HTTPS"
     },
     {
-        "question": "What colour is a panda?",
-        "optionA": "Green and Yellow",
-        "optionB": "Blue and Red",
-        "optionC": "Green and White",
-        "optionD": "Black and White",
-        "answer": "Black and White"
+        "question": "Which of the following is a cloud computing service provided by Amazon?",
+        "optionA": "Azure",
+        "optionB": "Google Cloud",
+        "optionC": "IBM Cloud",
+        "optionD": "Amazon Web Services (AWS)",
+        "answer": "Amazon Web Services (AWS)"
     },
     {
-        "question": "Where is the smallest bone in the human body?",
-        "optionA": "The Chest",
-        "optionB": "The Ear",
-        "optionC": "The Legs",
-        "optionD": "The Hands",
-        "answer": "The Ear"
+        "question": "What is the process of converting source code into machine code called?",
+        "optionA": "Compilation",
+        "optionB": "Interpretation",
+        "optionC": "Debugging",
+        "optionD": "Execution",
+        "answer": "Compilation"
     },
     {
-        "question": "What does the roman numeral C represent?",
-        "optionA": "100",
-        "optionB": "10",
-        "optionC": "10,000",
-        "optionD": "1,000,000",
-        "answer": "100"
+        "question": "Which networking topology connects each device to a central hub?",
+        "optionA": "Bus",
+        "optionB": "Star",
+        "optionC": "Ring",
+        "optionD": "Mesh",
+        "answer": "Star"
     },
     {
-        "question": "What takes place in Hong Kong's Happy Valley?",
-        "optionA": "Chicken Wrestling",
-        "optionB": "Horse racing",
-        "optionC": "Street Racing",
-        "optionD": "Arm Wrestling",
-        "answer": "Horse racing"
+        "question": "Which type of cyberattack involves tricking individuals into revealing sensitive information?",
+        "optionA": "Phishing",
+        "optionB": "Ransomware",
+        "optionC": "DDoS",
+        "optionD": "Malware",
+        "answer": "Phishing"
     },
     {
-        "question": "Who painted the Mona Lisa?",
-        "optionA": "Alexander Graham Bell",
-        "optionB": "Sir Isaac Newton",
-        "optionC": "Leonardo Da Vinci",
-        "optionD": "Albert Einstein",
-        "answer": "Leonardo Da Vinci"
-    },
-    {
-        "question": "What’s the most important book in the Moslem religion?",
-        "optionA": "The Koran",
-        "optionB": "The Dictionary",
-        "optionC": "The Bible",
-        "optionD": "The Chemistry text Book",
-        "answer": "The Koran"
-    },
-    {
-        "question": "What’s the capital of Ethiopia?",
-        "optionA": "Cape Town",
-        "optionB": "San Francisco",
-        "optionC": "Abuja",
-        "optionD": "Syndey",
-        "answer": "Addis Ababa"
-    },
-    {
-        "question": "How many squares are there on a chess board?",
-        "optionA": "128",
-        "optionB": "64",
-        "optionC": "32",
-        "optionD": "256",
-        "answer": "64"
-    },
-    {
-        "question": "Who invented the electric light bulb?",
-        "optionA": "Tom Cruise",
-        "optionB": "Barack Obama",
-        "optionC": "Wole Soyinka",
-        "optionD": "Thomas Edison",
-        "answer": "Thomas Edison"
-    },
-    {
-        "question": "What are the first three words of the bible?",
-        "optionA": "be with everyone",
-        "optionB": "Again Jesus asked",
-        "optionC": "In the beginning",
-        "optionD": "At that time",
-        "answer": "In the beginning"
+        "question": "Which storage device uses NAND-based flash memory?",
+        "optionA": "Hard Disk Drive (HDD)",
+        "optionB": "Solid State Drive (SSD)",
+        "optionC": "CD-ROM",
+        "optionD": "Floppy Disk",
+        "answer": "Solid State Drive (SSD)"
     }
 ]
